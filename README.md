@@ -1,4 +1,4 @@
-#References 
+# References 
 
 1)Alkhatib, Natasha, Hadi Ghauch, and Jean-Luc Danger. "SOME/IP intrusion detection using deep learning-based sequential models in automotive ethernet networks." 2021 IEEE 12th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON). IEEE, 2021.
 
